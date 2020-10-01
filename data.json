@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": 2,
+      "name": "rampa",
+      "email": "asdsdf@gmail.com",
+      "age": 26
+    },
+    {
+      "id": 3,
+      "name": "track",
+      "email": "track@gmail.com",
+      "age": 27
+    },
+    {
+      "id": 4,
+      "name": "jack",
+      "email": "jack@gmail.com",
+      "age": 28
+    },
+    {
+      "id": 5,
+      "name": "mack",
+      "email": "mack@gmail.com",
+      "age": 29
+    },
+    {
+      "id": 9,
+      "name": "rishabh",
+      "email": "rishk@gmail.com",
+      "age": 23
+    },
+    {
+      "name": "dev",
+      "email": "dev@gmail.com",
+      "age": 25,
+      "id": 10
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@gmail.com",
+      "age": 29,
+      "id": 11
+    }
+  ]
+}
